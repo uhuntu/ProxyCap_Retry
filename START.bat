@@ -1,6 +1,6 @@
 @echo off
 SET RootDir=%~dp0
-SET ExeName=pcap541_x64.msi
+SET ExeName=pcap542_x64.msi
 SET LookForExe=%RootDir%files\%ExeName%
 SET SettingsBackupDir=%RootDir%settingsBackup
 REM Get installation dir from registry
